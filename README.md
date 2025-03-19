@@ -23,4 +23,4 @@ may help inform insights and/or tactics for answering the research question of i
 - [Part 1 - Data Cleansing.ipynb](Part 1 - Data Cleansing.ipynb) - Contains the data cleansing steps, including mapping the columns from metadata back to the dataframe, removing leading and trailing whitespaces, checking valid values of columns, etc.
 - [Part 2 - EDA.ipynb](Part 2 - EDA.ipynb) - Contains the EDA of the dataset. Most of them are simply done by using boxplots (numerical values) and heatmaps (categorical values)
 - [Part 3 - Model and results.ipynb] - Modelling. First use a CART decision tree to visualise the possible decision paths on splitting the data, and use ensemble models such as random forest and XGBoost to improve the model performance. Also contains Model Assessment and results.
-- [Powerpoint] - Presentation document
+- [Powerpoint] - [Link to presentation](https://docs.google.com/presentation/d/1ibWSr5gwRy40lZLXFVlIHUQHna6l3mIPXYwzyvVijew/edit?usp=sharing)
